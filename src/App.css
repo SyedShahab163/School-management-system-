@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* .App {
+  background: url(pic/bg.jpg);
+  background-size: contain;
+  background-position: top;
+  background:cover;
+  padding: 10vmax;
+  
+} */
